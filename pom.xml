@@ -13,7 +13,7 @@
     <version>0.0.1-SNAPSHOT</version>
     <name>accounts</name>
     <description>Accounts Service for EazyBank</description>
-    <packaging>jar</packaging>
+<!--    <packaging>jar</packaging>-->
     <url/>
     <licenses>
         <license/>
