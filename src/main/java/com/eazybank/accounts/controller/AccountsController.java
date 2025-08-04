@@ -37,7 +37,7 @@ public class AccountsController {
     public ResponseEntity<ResponseDto> greet() {
         return ResponseEntity
                 .status(201)
-                .body(new ResponseDto("SUCCESS", HttpStatus.OK));
+                .body(new ResponseDto("Hello World", HttpStatus.OK));
     }
 
     @ApiResponse(
